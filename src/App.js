@@ -14,10 +14,10 @@ function App() {
         </div>
       </div>
       <div class="card_section">
-        <p>Descripcion de la card</p>
+        <p>Description of what is done here</p>
       </div>
       <div class="card_footer">
-        <p>Mis Actualizaciones</p>
+        <p>Last Updated</p>
         <p>14/07/2021</p>
       </div>
     </div>
@@ -32,10 +32,10 @@ function App() {
             </div>
         </div>
         <div class="card_section">
-            <p>Descripcion de la card</p>
+            <p>Description of what is done here</p>
         </div>
         <div class="card_footer">
-            <p>Mis Actualizaciones</p>
+            <p>Last Updateds</p>
             <p>14/07/2021</p>
         </div>
     </div>
@@ -51,10 +51,10 @@ function App() {
             </div>
         </div>
         <div class="card_section">
-            <p>Descripcion de la card</p>
+            <p>Description of what is done here</p>
         </div>
         <div class="card_footer">
-            <p>Mis Actualizaciones</p>
+            <p>Last Updated</p>
             <p>14/07/2021</p>
         </div>
     </div></>
